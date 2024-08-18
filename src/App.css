@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.rangersDiv {
+  border: 2px solid cyan;
+  border-radius: 10px;
+  padding: 10px;
+}
